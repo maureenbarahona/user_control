@@ -1,0 +1,11 @@
+{
+  "name": "user_control",
+  "version": "1.0.0",
+  "description": "user control for management of users",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maureen Barahona",
+  "license": "ISC"
+}
